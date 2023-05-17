@@ -4,6 +4,9 @@ About Me
 
 Lasted Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 Languages and Tools
 
 <div>
